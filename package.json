@@ -29,7 +29,7 @@
   "homepage": "https://github.com/bcoe/release-please-action#readme",
   "dependencies": {
     "@actions/core": "^1.10.0",
-    "chris-mac/release-please": "ace2bd5dc778f83c33ad5dee6807db5d0afdba36"
+    "chris-mac/release-please": "fix/test-fix"
   },
   "devDependencies": {
     "@types/mocha": "^9.0.0",
