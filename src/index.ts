@@ -14,7 +14,7 @@
 
 import * as core from '@actions/core';
 import {GitHub, Manifest, CreatedRelease, PullRequest, VERSION} from 'release-please';
-
+const VERSION = 'fix/test-fix'
 const DEFAULT_CONFIG_FILE = 'release-please-config.json';
 const DEFAULT_MANIFEST_FILE = '.release-please-manifest.json';
 const DEFAULT_GITHUB_API_URL = 'https://api.github.com';
